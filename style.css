@@ -43,7 +43,7 @@ nav{
   }
   
   nav li a:hover {
-    color:rgb(233, 70, 233);
+    color: #ff2929 ;
     opacity: 1;
     text-decoration: none;
   }
